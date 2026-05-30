@@ -1,4 +1,4 @@
-# Majikoi Steam — Script Arc Tools
+# Majikoi Steam Script Arc Tools
 
 Tools for unpacking, editing, and repacking the **MinatoSoft PAC** archives and **BIN script** files used by *Maji de Watashi ni Koi Shinasai!* (Steam version).
 
