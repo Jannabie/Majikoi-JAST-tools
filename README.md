@@ -6,7 +6,7 @@ Tools for unpacking, editing, and repacking the **MinatoSoft PAC** archives and 
 
 ## Proof of concept
 
-| PAC unpack | BIN extraction |
+| Foto 1 | Foto 2|
 |:---:|:---:|
 | ![PAC proof](https://i.imgur.com/EwviFYO.png) | ![BIN proof](https://i.imgur.com/e5Gp2At.png) |
 
